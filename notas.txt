@@ -1,0 +1,30 @@
+la puerta NAND son universales
+
+-cómo hacer puertas AND con puertas NAND
+-cómo hacer puertas AND con puertas NOR
+
+a + b = si a o b
+
+not a + not b =  1
+
+//---------------
+suma modulo 2: a"+"b no es lo mismo que a+b = or
+
+a b | a "+"b  | C
+---------------------
+0 0 | 0       |  0
+0 1 | 1       |  0
+1 0 | 1       |  0
+1 1 | 0       |  1
+
+
+ejercicio:
+hacer un semisumaor con dos entradas y dos salidas. Hace tabla del semisumador.todo con puerta NAND
+
+NOTA: el xor es irreversible, es decir, si tenemos una salida 0, no podemos saber el estado de cada una de las anteriores
+
+The expansion de shannon****
+---------------------------
+La expansión de Shannon se basa en el Teorema de Shannon, que establece que cualquier función booleana puede ser representada
+ como una combinación de dos términos, cada uno de los cuales es una expresión más simple de la función. Esto se logra mediante
+ la aplicación de una variable de entrada en la función.
