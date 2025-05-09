@@ -19,7 +19,8 @@ a b | a "+"b  | C
 
 
 ejercicio:
-hacer un semisumaor con dos entradas y dos salidas. Hace tabla del semisumador.todo con puerta NAND
+1._hacer un semisumaor con dos entradas y dos salidas. Hace tabla del semisumador.todo con puerta NAND
+2._hacer un sumador de 3 entradas y dos salidas
 
 NOTA: el xor es irreversible, es decir, si tenemos una salida 0, no podemos saber el estado de cada una de las anteriores
 
